@@ -1,0 +1,14 @@
+mass=90
+g=9.8
+L=60
+d=40
+xA=-d/2
+xB=d/2
+k=10
+mu=0
+dt=0.25
+nsteps=480
+x0=xA
+y0=0
+vx0=0
+vy0=0
